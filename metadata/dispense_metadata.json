@@ -1,0 +1,36 @@
+{
+    "name": "Dispense",
+    "symbol": "DISP",
+    "description": "Dispense token represents a revolutionary approach to onboard the Cannabis Industry onto Blockchain.",
+    "seller_fee_basis_points": 50, // Corrected from 050 to 50
+    "image": "https://raw.githubusercontent.com/sleepyrasta/dispense/main/assets/DispenseLogo.png", // Ensure this is the raw image URL
+    "external_url": "https://dispensecrypto.com",
+    "attributes": [
+        {
+            "trait_type": "Utility",
+            "value": "Finance"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/sleepyrasta/dispense/main/assets/DispenseLogo.png", // Ensure this is the raw image URL
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "4EeLAw3HyQBcFeq4Z65c7TQdFhvnTUxqeEgnNdEUsdcC",
+                "share": 10 // Assuming you want to allocate 100% to this creator
+            }
+        ]
+    }
+}
+
+    }
+}
